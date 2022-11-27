@@ -13,6 +13,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Quiz4Exercise3", "Quiz4Exer
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Quiz4Exercise3", "Quiz4Exercise3\Quiz4Exercise3.csproj", "{A82C475A-8F16-4016-942D-D0943EC62D8A}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Quiz4Exercise4", "Quiz4Exercise4", "{21599449-47D3-4C07-9D6C-C9599AF89E11}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Quiz4Exercise4", "Quiz4Exercise4\Quiz4Exercise4.csproj", "{57771C06-CB81-4E48-BCF3-47D6D3035BB8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -31,6 +35,10 @@ Global
 		{A82C475A-8F16-4016-942D-D0943EC62D8A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A82C475A-8F16-4016-942D-D0943EC62D8A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A82C475A-8F16-4016-942D-D0943EC62D8A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{57771C06-CB81-4E48-BCF3-47D6D3035BB8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57771C06-CB81-4E48-BCF3-47D6D3035BB8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57771C06-CB81-4E48-BCF3-47D6D3035BB8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57771C06-CB81-4E48-BCF3-47D6D3035BB8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -38,6 +46,7 @@ Global
 	GlobalSection(NestedProjects) = preSolution
 		{9BDB8A13-9B9E-4070-9B3B-1CF3CF944D49} = {4DF2AC96-C083-4BA4-8D7E-5BDB12975454}
 		{A82C475A-8F16-4016-942D-D0943EC62D8A} = {ED7B433B-4F50-43D3-B61C-A41C91B31833}
+		{57771C06-CB81-4E48-BCF3-47D6D3035BB8} = {21599449-47D3-4C07-9D6C-C9599AF89E11}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {5DF662C0-EC5E-4A18-A5B7-4E02205B5461}
